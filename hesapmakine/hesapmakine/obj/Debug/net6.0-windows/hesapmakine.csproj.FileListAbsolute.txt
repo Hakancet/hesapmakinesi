@@ -1,0 +1,17 @@
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\bin\Debug\net6.0-windows\hesapmakine.exe
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\bin\Debug\net6.0-windows\hesapmakine.deps.json
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\bin\Debug\net6.0-windows\hesapmakine.runtimeconfig.json
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\bin\Debug\net6.0-windows\hesapmakine.dll
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\bin\Debug\net6.0-windows\hesapmakine.pdb
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.Form1.resources
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.csproj.GenerateResource.cache
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.AssemblyInfoInputs.cache
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.AssemblyInfo.cs
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.dll
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\refint\hesapmakine.dll
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.pdb
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\hesapmakine.genruntimeconfig.cache
+C:\Users\hakan\source\repos\hesapmakine\hesapmakine\obj\Debug\net6.0-windows\ref\hesapmakine.dll
